@@ -1,1 +1,6 @@
-Thanks for viewing my resume. please email at neelinderbedi.nb@gmail.com
+Thanks for downloading this template!
+
+Template Name: iPortfolio
+Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
+Author: BootstrapMade.com
+License: https://bootstrapmade.com/license/
